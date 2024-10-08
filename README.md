@@ -16,8 +16,9 @@
 ## 🌱use skill
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,dotnet,sqlserver" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,dotnet" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
+    </a>
 </p>
 
 ## 💕activity
