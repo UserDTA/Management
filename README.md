@@ -11,7 +11,7 @@
 ## 📱requirement
 - windows
 - VB.NET
-- SQLserver
+- SQL Server
 
 ## 🌱use skill
 <p align="left">
