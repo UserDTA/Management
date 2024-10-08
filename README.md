@@ -9,7 +9,7 @@
 - ボタンから選択列を移動させられる
 
 ## 📱requirement
-- windows
+- Windows
 - VB.NET
 - SQL Server
 
