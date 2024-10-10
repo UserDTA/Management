@@ -3,7 +3,7 @@ Public Class Admin
     Private Sub Admin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         '管理メニュー(Admin)フォームが読み込まれたときの処理
         '接続文字列
-        cn.ConnectionString = "Data Source=AISATT-NOTE03\SQLEXPRESS;Initial Catalog=testDB;Integrated Security=True"
+        cn.ConnectionString = "Data Source=xxxx"
         'Commandオブジェクトの生成
         Dim cmEmp As New SqlCommand
         Dim cmDep As New SqlCommand
