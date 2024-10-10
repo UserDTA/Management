@@ -51,7 +51,6 @@ Public Class Admin
 
     Private Sub btnFilter_Click(sender As Object, e As EventArgs) Handles btnFilter.Click
         '抽出ボタンがクリックされた時の処理
-
         If btnFilter.Text = "抽出" Then
             'ボタンのテキストが抽出の時
             'コンボボックスで選んだ部署を抽出しデータグリッドに表示
