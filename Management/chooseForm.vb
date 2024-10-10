@@ -1,4 +1,4 @@
-﻿Public Class chooseForm
+﻿Public Class ChooseForm
     'メインフォーム
     '管理メニューか勤務表どちらを開くか選択するフォーム
     Private Sub btnAdmin_Click(sender As Object, e As EventArgs) Handles btnAdmin.Click
