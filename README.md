@@ -11,7 +11,7 @@
 ## 📱requirement
 - Windows10
 - VB.NET
-- SQL Server2014 Express
+- SQL Server 2014 ver.12.0.2269.0
 
 ## 🌱use skill
 <p align="left">
