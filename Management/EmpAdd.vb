@@ -1,7 +1,7 @@
 ﻿Imports System.Data.SqlClient
 Public Class EmpAdd
     Private Sub EmpAdd_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        '登録ボタンがクリックされた時の処理
+        '登録フォーム(EmpAdd)が読み込まれた時の処理
         'コンボボックスにデータを連結
         cboDep.DataSource = ds
         cboDep.DisplayMember = "部署.部署名"
