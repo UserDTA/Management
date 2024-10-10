@@ -4,7 +4,7 @@ Public Class EmpList
     Private Sub EmpList_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         '勤務(Admin)フォームが読み込まれたときの処理
         '接続文字列
-        cn2.ConnectionString = "Data Source=AISATT-NOTE03\SQLEXPRESS;Initial Catalog=testDB;Integrated Security=True"
+        cn2.ConnectionString = "Data Source=xxxx"
         'Commandオブジェクトの生成
         Dim cmEmp As New SqlCommand
         Dim cmWork As New SqlCommand
