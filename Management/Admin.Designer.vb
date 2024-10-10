@@ -99,7 +99,7 @@ Partial Class Admin
         '
         'btnEdit
         '
-        Me.btnEdit.Location = New System.Drawing.Point(125, 362)
+        Me.btnEdit.Location = New System.Drawing.Point(146, 362)
         Me.btnEdit.Name = "btnEdit"
         Me.btnEdit.Size = New System.Drawing.Size(83, 36)
         Me.btnEdit.TabIndex = 7
@@ -108,7 +108,7 @@ Partial Class Admin
         '
         'btnDel
         '
-        Me.btnDel.Location = New System.Drawing.Point(230, 362)
+        Me.btnDel.Location = New System.Drawing.Point(264, 362)
         Me.btnDel.Name = "btnDel"
         Me.btnDel.Size = New System.Drawing.Size(83, 36)
         Me.btnDel.TabIndex = 8
@@ -117,7 +117,7 @@ Partial Class Admin
         '
         'btnCancel
         '
-        Me.btnCancel.Location = New System.Drawing.Point(339, 362)
+        Me.btnCancel.Location = New System.Drawing.Point(388, 362)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(83, 36)
         Me.btnCancel.TabIndex = 9
@@ -126,7 +126,7 @@ Partial Class Admin
         '
         'btnDBup
         '
-        Me.btnDBup.Location = New System.Drawing.Point(468, 362)
+        Me.btnDBup.Location = New System.Drawing.Point(817, 362)
         Me.btnDBup.Name = "btnDBup"
         Me.btnDBup.Size = New System.Drawing.Size(213, 36)
         Me.btnDBup.TabIndex = 10
@@ -135,7 +135,7 @@ Partial Class Admin
         '
         'btnExit
         '
-        Me.btnExit.Location = New System.Drawing.Point(702, 362)
+        Me.btnExit.Location = New System.Drawing.Point(1074, 362)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(83, 36)
         Me.btnExit.TabIndex = 11

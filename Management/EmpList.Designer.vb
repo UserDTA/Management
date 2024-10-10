@@ -94,7 +94,7 @@ Partial Class EmpList
         Me.dgWork.Name = "dgWork"
         Me.dgWork.RowTemplate.Height = 27
         Me.dgWork.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgWork.Size = New System.Drawing.Size(843, 261)
+        Me.dgWork.Size = New System.Drawing.Size(933, 261)
         Me.dgWork.TabIndex = 6
         '
         'btnFirst
@@ -164,7 +164,7 @@ Partial Class EmpList
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 18.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1010, 449)
+        Me.ClientSize = New System.Drawing.Size(1016, 449)
         Me.Controls.Add(Me.lblCount)
         Me.Controls.Add(Me.btnClose)
         Me.Controls.Add(Me.btnDBup)
