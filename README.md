@@ -9,9 +9,9 @@
 - ボタンから選択列を移動させる事ができる
 
 ## 📱requirement
-- Windows
+- Windows10
 - VB.NET
-- SQL Server
+- SQL Server2014 Express
 
 ## 🌱use skill
 <p align="left">
